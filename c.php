@@ -2,7 +2,11 @@
 <div class="container">
 <div class="container-title bg-light">
   <h1 class="text-center ">تقرير مساحة</h1>
+<<<<<<< HEAD
 </div>اسامه1111111
+=======
+</div>
+>>>>>>> parent of 6f7750f (new)
 <br>
 <form class="row g-3 " >
 <div class="col-4">
